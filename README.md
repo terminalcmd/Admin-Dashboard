@@ -3,7 +3,9 @@ Admin Dashboard using HTML & CSS
 
 # Last project in intermidiate HTML CSS
 Dashboard with link to my github account
-and to my project link and repository
+and to my project link and 
+
+Project Demo:https://terminalcmd.github.io/Admin-Dashboard/
 
 # Assets
 *Images by Pixabay https://pixabay.com/
